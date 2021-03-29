@@ -10,5 +10,5 @@ if password_lenght < 5:
 
 else:
 
-character_left = password_lenght
+character_left = password_lenght 
 
